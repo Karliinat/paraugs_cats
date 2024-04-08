@@ -1,3 +1,18 @@
 body{
-    background-color: aquamarine;
+    background-image:url(https://img.lovepik.com/photo/48013/0576.jpg_wh860.jpg);
+}
+.pamatlaukums{
+    background-color:blanchedalmond;
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(45, 45, 123);
+    padding: 10px; 
+    margin:auto;
+}
+.cataZina{
+    background-color: rgb(147, 177, 186);
+    height: 420px;
+    padding: 10px;
+    overflow: scroll;
+    color:rgb(38, 54, 105);
 }
